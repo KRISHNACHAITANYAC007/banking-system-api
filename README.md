@@ -1,4 +1,4 @@
-# banking-system-api
+# Banking-system-api
 
 
 A backend banking system that supports basic banking operations.
